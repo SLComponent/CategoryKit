@@ -1,0 +1,33 @@
+{
+  "name": "CategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of CategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SLComponent/CategoryKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "forestfsl": "15013339531@163.com"
+  },
+  "source": {
+    "git": "https://github.com/SLComponent/CategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CategoryKit/Classes/**/*",
+  "dependencies": {
+    "YYCache": [
+
+    ],
+    "Masonry": [
+
+    ],
+    "SVProgressHUD": [
+
+    ]
+  }
+}

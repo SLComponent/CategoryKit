@@ -1,0 +1,31 @@
+PODS:
+  - CategoryKit (0.1.0):
+    - Masonry
+    - SVProgressHUD
+    - YYCache
+  - Masonry (1.1.0)
+  - SVProgressHUD (2.2.5)
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - CategoryKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+    - SVProgressHUD
+    - YYCache
+
+EXTERNAL SOURCES:
+  CategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CategoryKit: 0b0234f947857ee88c7cdd71d81bab834d69f8f0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: 5c2a3f8e4cbe99594d3f76987c819c81fd4e9149
+
+COCOAPODS: 1.5.0

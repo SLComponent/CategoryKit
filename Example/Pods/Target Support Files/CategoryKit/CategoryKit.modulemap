@@ -1,0 +1,6 @@
+framework module CategoryKit {
+  umbrella header "CategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
